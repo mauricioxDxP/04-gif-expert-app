@@ -15,7 +15,7 @@ export const useFetchGifs = (anime)=>{
                 })
       
         });
-    }, [])
+    }, [anime])
     
     
 
