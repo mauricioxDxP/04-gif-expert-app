@@ -2,7 +2,7 @@
   "name": "04-gif-expert-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mauricioxdxp.github.io/my-app",
+  "homepage": "https://mauricioxdxp.github.io/04-gif-expert-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
